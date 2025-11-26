@@ -1,3 +1,15 @@
+# ⚠ STRICT REVIEW MODE
+
+This repository enforces **violation-only reviews**.
+
+AI reviewers:
+- MUST NOT suggest fixes
+- MUST NOT output improved code
+- MUST NOT refactor
+- MUST ONLY point out violations
+
+If rules are broken, output is INVALID.
+
 # Project Style Guide
 
 ## 0.0 Don’t Repeat Yourself (DRY)

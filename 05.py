@@ -1,0 +1,4 @@
+def this_function_name_is_unnecessarily_and_unreasonably_long_and_should_never_be_written_like_this():
+    print("Hello from a very long function name!")
+
+this_function_name_is_unnecessarily_and_unreasonably_long_and_should_never_be_written_like_this()
